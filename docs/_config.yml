@@ -1,5 +1,10 @@
-theme: jekyll-theme-cayman
 
-# SITE CONFIGURATION
-baseurl: ""
+
+
+
+title: unsecure
+baseurl: "/unsecure"
 url: "https://esgi-tibiscus.github.io/Unsecure/"
+markdown: kramdown
+theme: jekyll-theme-cayman
+exclude: [vendor]
