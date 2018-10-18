@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://esgi-tibiscus.github.io/Unsecure/"
