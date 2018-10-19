@@ -8,4 +8,4 @@ branches:
 before_install:
  - composer self-update
  - composer install --prefer-source --no-interaction --dev
-script: ls
+script: ./vendor/phpunit/phpunit/phpunit
