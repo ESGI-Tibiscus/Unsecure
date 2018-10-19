@@ -16,5 +16,10 @@ To commit your changes you have to create a branch from develop, then create a p
 <br>
 A clear message of what you did is needed.
 <br>
-At least one contributor have to accept this pull request.
+At least 1 contributor have to accept this pull request on develop and the test has to passed.
+<br>
+At least 3 contributor have to accept this pull request on master and the test has to passed.
 
+### Create a new issue
+
+When you create an issue you have to explain the problem on the description issue.
