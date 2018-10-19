@@ -8,4 +8,4 @@ branches:
 before_install:
  - composer self-update
  - composer install --prefer-source --no-interaction --dev
-script: bin/phpunit --configuration phpunit.xml --testsuite "Darkmira test suite"
+script: vendor/phpunit/phpunit/phpunit --configuration phpunit.xml --testsuite "Darkmira test suite"
