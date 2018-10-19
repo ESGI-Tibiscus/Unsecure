@@ -1,0 +1,11 @@
+language: php
+php:
+  - 7.1
+sudo: enabled
+branches:
+  only:
+    develop
+before_install:
+ - composer self-update
+ - composer install --prefer-source --no-interaction --dev
+script: ./vendor/phpunit/phpunit/phpunit
