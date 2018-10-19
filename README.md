@@ -33,7 +33,7 @@ https://esgi-tibiscus.github.io/Unsecure/
 
 ## Installation
 
-To install the project run the command bellow :
+To install the project run the command below :
 
 ```
 make install
@@ -41,7 +41,7 @@ make install
 
 ## Start the project
 
-To start the project run the command bellow :
+To start the project run the command below :
 
 ```
 make start
@@ -49,7 +49,7 @@ make start
 
 ## Stop the project
 
-To stop the project run the command bellow :
+To stop the project run the command below :
 
 ```
 make stop
@@ -57,7 +57,7 @@ make stop
 
 ## Destroy the project
 
-To destroy the project run the command bellow :
+To destroy the project run the command below :
 
 ```
 make destroy
